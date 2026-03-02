@@ -1,0 +1,14 @@
+torch>=2.0.0
+transformers>=4.30.0
+accelerate
+sounddevice
+numpy
+soundfile
+playsound
+faster-whisper
+transformers>=4.40.0
+soundfile
+playsound
+pydub
+simpleaudio  # pip install simpleaudio
+ffmpeg  # Windows pe ffmpeg.exe download kar ke PATH mein add karo[](https://ffmpeg.org/download.html)
