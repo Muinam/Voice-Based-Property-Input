@@ -1,5 +1,5 @@
-# 🎙️ Voice-Based Property Input Data Collection (JSON Output)
-📌 Overview
+# Voice-Based Property Input Data Collection (JSON Output)
+Overview
 
 This project is a voice-interactive property listing system that collects real estate information step-by-step and generates structured JSON output.
 
@@ -17,7 +17,7 @@ It supports:
 
 📦 Clean JSON Output
 
-## 🚀 How It Works
+## How It Works
 
 System greets the user.
 
@@ -51,7 +51,7 @@ System confirms details.
 
 Final structured JSON is printed in terminal.
 
-## 🧠 Technologies Used
+## Technologies Used
 
 Faster-Whisper (tiny.en) → Speech-to-Text
 
@@ -60,5 +60,6 @@ facebook/mms-tts-eng → Text-to-Speech
 Python
 
 JSON formatting
+
 
 Custom state management system
